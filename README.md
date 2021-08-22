@@ -7,10 +7,13 @@ I am in no way affiliated with them.
 This has only been tested on macOS.
 
 ## Instructions
+
 **Command**
+
 `$ ./lidwoord paard`
 
 **Output**
+
 ```
 het paard
 
