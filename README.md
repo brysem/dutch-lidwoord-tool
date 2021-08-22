@@ -4,7 +4,7 @@ A simple CLI tool to return the article (lidwoord) for a Dutch word.
 This tool uses the website https://www.welklidwoord.nl to pull its information.
 I am in no way affiliated with them.
 
-This has only be tested on macOS.
+This has only been tested on macOS.
 
 ## Instructions
 **Command**
